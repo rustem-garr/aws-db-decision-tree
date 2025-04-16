@@ -43,7 +43,10 @@ Detailed walkthrough of the diagram:
    - **Ease of Use**: Choose **DocumentDB** – MongoDB-compatible, easy for developers.
    - **Scale**: Choose **DynamoDB** – serverless, ultra-scalable key-value NoSQL DB.
 
+
 ---
+
+Elasticsearch, CloudSearch, and ElastiCache alone are usually not enough, so in real-life use cases you need a primary data store (NoSQL or relational) as well - which isn’t shown in the diagram.
 
 Feel free to fork, contribute, or suggest improvements.  
 Happy building on AWS!
