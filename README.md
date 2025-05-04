@@ -6,7 +6,7 @@ Visual decision tree to help choose the right AWS database service based on use 
 
 ## 📺 YouTube Explanation
 
-Detailed walkthrough of the diagram:  
+Walkthrough of the diagram:  
 👉 [YouTube video](https://www.youtube.com/watch?v=3N7nU8ip-nI)
 
 ---
